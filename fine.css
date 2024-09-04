@@ -1,0 +1,22 @@
+/* fine.css */
+
+/* Styling for all <p> elements */
+p {
+    /* Content area */
+    width: 300px; /* Specifies the width of the content area */
+    height: 100px; /* Specifies the height of the content area */
+
+    /* Padding */
+    padding: 20px; /* Space between content and border */
+
+    /* Border */
+    border: 5px solid #333; /* 5px wide solid border with a color of #333 */
+
+    /* Margin */
+    margin: 30px; /* Space outside the border */
+
+    /* Additional styling */
+    background-color: #f0f0f0; /* Light gray background color */
+    color: #333; /* Text color */
+    font-family: Arial, sans-serif; /* Font type */
+}
